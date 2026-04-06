@@ -1,10 +1,10 @@
 # 御宅室源排行榜
 
-本榜单基于御宅室发现页可见公开源整理，按商店综合评分从高到低排序；评分相同时，以场景总数作为次要排序依据。
+本榜单基于御宅室可见公开源整理，按社区综合评分从高到低排序；评分相同时，以场景总数作为次要排序依据。
 
 榜单用于帮助公众用户快速判断各源的规模与定位，具体内容与适用性仍应以客户端内详情页为准。
 
-数据更新时间：2026-04-05 14:00:49
+数据更新时间：2026-04-06 11:15:53
 
 ---
 
@@ -28,7 +28,7 @@
 
 该源以 Pixiv 相关内容为主，定位清晰，便于按题材集中浏览。当前可见规模为201相册、220,741场景。源说明显示该源仍存在持续维护或更新迹象。公开署名整理者为我妻有奶。
 
-`/ipns/k51qzi5uqu5di1wxw6tmvlor3b0p1samf9k3pgtfllndcangsv33zdww9ro8k7`
+[Pixiv (R18)](https://go.otakuroom.net/source/view/k51qzi5uqu5di1wxw6tmvlor3b0p1samf9k3pgtfllndcangsv33zdww9ro8k7)
 
 ---
 
@@ -42,7 +42,7 @@
 
 该源面向公开分享场景整理，具体题材仍应以客户端详情页为准。当前可见规模为14,831相册、29,657场景。公开署名整理者为蒙面超人。
 
-`/ipns/k51qzi5uqu5dic39hes1kqsvwgmp2iio72a193fiuxh4qu1ts4qrze5gnv0s2c`
+[蒙面超人的里世界](https://go.otakuroom.net/source/view/k51qzi5uqu5dic39hes1kqsvwgmp2iio72a193fiuxh4qu1ts4qrze5gnv0s2c)
 
 ---
 
@@ -51,12 +51,12 @@
 | 项目 | 内容 |
 | --- | --- |
 | 商店评分 | **4.71** |
-| 规模 | 136,428 相册 · 8,242,878 场景 · 约 6.5 TB |
+| 规模 | 136,433 相册 · 8,242,971 场景 · 约 6.5 TB |
 | 发布者 | 诺亚方舟 |
 
-该源以漫画阅读类内容为主，整体定位较为集中。当前可见规模为136,428相册、8,242,878场景。源说明显示该源仍存在持续维护或更新迹象。公开署名整理者为诺亚方舟。
+该源以漫画阅读类内容为主，整体定位较为集中。当前可见规模为136,433相册、8,242,971场景。源说明显示该源仍存在持续维护或更新迹象。公开署名整理者为诺亚方舟。
 
-`/ipns/k51qzi5uqu5dl0309vn8mkiggii3axjvhvlvqiqxa4r47ze8c20ncwb2vjnp05`
+[诺亚漫画（10W+漫画，持续更新）](https://go.otakuroom.net/source/view/k51qzi5uqu5dl0309vn8mkiggii3axjvhvlvqiqxa4r47ze8c20ncwb2vjnp05)
 
 ---
 
@@ -70,7 +70,7 @@
 
 该源以视频类内容为主，适合希望集中获取大体积条目的用户。当前可见规模为210相册、1,563场景。公开署名整理者为九条美姬。
 
-`/ipns/k51qzi5uqu5dk4ojohseei664awrigf8gmk2070sr5oe40urpmt6dglb9v5eag`
+[JAV日本动作大片](https://go.otakuroom.net/source/view/k51qzi5uqu5dk4ojohseei664awrigf8gmk2070sr5oe40urpmt6dglb9v5eag)
 
 ---
 
@@ -84,7 +84,7 @@
 
 该源以游戏资源为主，适合有明确下载与归档需求的用户。当前可见规模为28,150相册、313,549场景。
 
-`/ipns/k51qzi5uqu5dl9471gruyx4ua8q917o5kyplikmxxkv6761gkd473y23ktkgh6`
+[A Lot of Games - 好多游戏](https://go.otakuroom.net/source/view/k51qzi5uqu5dl9471gruyx4ua8q917o5kyplikmxxkv6761gkd473y23ktkgh6)
 
 ---
 
@@ -93,12 +93,12 @@
 | 项目 | 内容 |
 | --- | --- |
 | 商店评分 | **4.35** |
-| 规模 | 3,317 相册 · 50,594 场景 · 约 12.8 TB |
+| 规模 | 3,325 相册 · 50,614 场景 · 约 12.8 TB |
 | 发布者 | 诺亚方舟 |
 
-该源以动画类内容为主，适合偏好连续观看或集中补档的用户。当前可见规模为3,317相册、50,594场景。源说明显示该源仍存在持续维护或更新迹象。
+该源以动画类内容为主，适合偏好连续观看或集中补档的用户。当前可见规模为3,325相册、50,614场景。源说明显示该源仍存在持续维护或更新迹象。
 
-`/ipns/k51qzi5uqu5djd5zqzt8b2q514bq9e66b2ubnhrgidc593m6r8rz9ky1pcsis9`
+[诺亚动漫（3K+动漫，持续更新）](https://go.otakuroom.net/source/view/k51qzi5uqu5djd5zqzt8b2q514bq9e66b2ubnhrgidc593m6r8rz9ky1pcsis9)
 
 ---
 
@@ -107,12 +107,12 @@
 | 项目 | 内容 |
 | --- | --- |
 | 商店评分 | **4.12** |
-| 规模 | 437 相册 · 11,950 场景 · 约 807 GB |
+| 规模 | 440 相册 · 11,957 场景 · 约 807 GB |
 | 发布者 | 朝月 |
 
-该源为题材高度垂直的同人资源整理库，目标受众较为明确。当前可见规模为437相册、11,950场景。源说明显示该源仍存在持续维护或更新迹象。公开署名整理者为朝月。
+该源为题材高度垂直的同人资源整理库，目标受众较为明确。当前可见规模为440相册、11,957场景。源说明显示该源仍存在持续维护或更新迹象。公开署名整理者为朝月。
 
-`/ipns/k51qzi5uqu5dj56nh2gugk89l19bzqt0xmc1jt2zr4ir4o8sufqtxxfl2njak6`
+[男性乳首責め文化遗产工程](https://go.otakuroom.net/source/view/k51qzi5uqu5dj56nh2gugk89l19bzqt0xmc1jt2zr4ir4o8sufqtxxfl2njak6)
 
 ---
 
@@ -126,7 +126,7 @@
 
 该源以游戏资源为主，适合有明确下载与归档需求的用户。当前可见规模为31相册、358场景。源说明显示该源仍存在持续维护或更新迹象。
 
-`/ipns/k51qzi5uqu5dmctbijal7a3tcpccd45w77vovoni9ip8s0mryol6f4akv6am3i`
+[游戏人生（个人收藏自用游戏）](https://go.otakuroom.net/source/view/k51qzi5uqu5dmctbijal7a3tcpccd45w77vovoni9ip8s0mryol6f4akv6am3i)
 
 ---
 
@@ -140,7 +140,7 @@
 
 该源以 AI 生成图像或相关内容为主，适合目标明确的浏览需求。当前可见规模为11相册、8,984场景。
 
-`/ipns/k51qzi5uqu5dj7alkgwei84v09jmlo3ej0vp97c0jwl5co059b09yrwude4pj3`
+[🔞R-18 AI 图集](https://go.otakuroom.net/source/view/k51qzi5uqu5dj7alkgwei84v09jmlo3ej0vp97c0jwl5co059b09yrwude4pj3)
 
 ---
 
@@ -154,7 +154,7 @@
 
 该源以漫画阅读类内容为主，整体定位较为集中。当前可见规模为523相册、57,480场景。
 
-`/ipns/k51qzi5uqu5djgn2sjpjeygrgp5940e1g19mrv8g2ue1cp2a1afvgrr62eg97b`
+[500多部中文漫画](https://go.otakuroom.net/source/view/k51qzi5uqu5djgn2sjpjeygrgp5940e1g19mrv8g2ue1cp2a1afvgrr62eg97b)
 
 ---
 
@@ -168,7 +168,7 @@
 
 该源以漫画阅读类内容为主，整体定位较为集中。当前可见规模处于中等水平，浏览与管理成本相对可控。
 
-`/ipns/k51qzi5uqu5dhsuu340p9ie5dxvx1x32l4fwjvyf15veipm3vnxt7q9it58luu`
+[🔞韩国条漫-皮卡卡的个人收藏](https://go.otakuroom.net/source/view/k51qzi5uqu5dhsuu340p9ie5dxvx1x32l4fwjvyf15veipm3vnxt7q9it58luu)
 
 ---
 
@@ -182,7 +182,7 @@
 
 该源以 AI 生成图像或相关内容为主，适合目标明确的浏览需求。当前可见规模处于中等水平，浏览与管理成本相对可控。
 
-`/ipns/k51qzi5uqu5dhd7fjf7bz6q5vu4l38bogq9qwbnisnjts6uq6kkzzp16fc9wwl`
+[AI Girl Albums](https://go.otakuroom.net/source/view/k51qzi5uqu5dhd7fjf7bz6q5vu4l38bogq9qwbnisnjts6uq6kkzzp16fc9wwl)
 
 ---
 
@@ -196,7 +196,7 @@
 
 该源以图片、摄影或真人视觉内容为主，浏览门槛较低。当前可见规模处于中等水平，浏览与管理成本相对可控。
 
-`/ipns/k51qzi5uqu5dgjgn0tj6tnfs4qgcpjck9wf6m4wji7g76g81hqkdk2lbjojldf`
+[Cosergirls＆福利姬（持续收集中）](https://go.otakuroom.net/source/view/k51qzi5uqu5dgjgn0tj6tnfs4qgcpjck9wf6m4wji7g76g81hqkdk2lbjojldf)
 
 ---
 
@@ -210,7 +210,7 @@
 
 该源以游戏资源为主，适合有明确下载与归档需求的用户。当前可见规模处于中等水平，浏览与管理成本相对可控。
 
-`/ipns/k51qzi5uqu5dioic6zzwhdx1dw5udx31q209x5igngrjlfl11yk23fb9f6jm8q`
+[忧郁的哥哥（Galgame）](https://go.otakuroom.net/source/view/k51qzi5uqu5dioic6zzwhdx1dw5udx31q209x5igngrjlfl11yk23fb9f6jm8q)
 
 ---
 
@@ -224,7 +224,7 @@
 
 该源以漫画阅读类内容为主，整体定位较为集中。当前可见规模处于中等水平，浏览与管理成本相对可控。
 
-`/ipns/k51qzi5uqu5dgwhp6v45j0fkjt94tyrvt4jmjmd6ir11uz08ao5gymicqw0g8z`
+[个人xp漫画分享](https://go.otakuroom.net/source/view/k51qzi5uqu5dgwhp6v45j0fkjt94tyrvt4jmjmd6ir11uz08ao5gymicqw0g8z)
 
 ---
 
@@ -238,7 +238,7 @@
 
 该源以漫画阅读类内容为主，整体定位较为集中。当前可见规模处于中等水平，浏览与管理成本相对可控。
 
-`/ipns/k51qzi5uqu5disi3700ff5rrmiqrha95f8ah7hhqkxwrqxvqn1wtquau8myaz4`
+[🔞R-18 Hentai Manga](https://go.otakuroom.net/source/view/k51qzi5uqu5disi3700ff5rrmiqrha95f8ah7hhqkxwrqxvqn1wtquau8myaz4)
 
 ---
 
@@ -252,11 +252,11 @@
 
 该源以漫画阅读类内容为主，整体定位较为集中。当前可见规模相对有限，更适合按需浏览。
 
-`/ipns/k51qzi5uqu5din2wx5b4kuq5npv3cjbx1l2y7h888mnqfvrlat7aw2s8lv95ug`
+[个人XP实用漫画收集](https://go.otakuroom.net/source/view/k51qzi5uqu5din2wx5b4kuq5npv3cjbx1l2y7h888mnqfvrlat7aw2s8lv95ug)
 
 ---
 
-### 18. 未命名源
+### 18. 都是自己平时从各种渠道收集到资源
 
 | 项目 | 内容 |
 | --- | --- |
@@ -266,7 +266,7 @@
 
 该源面向公开分享场景整理，具体题材仍应以客户端详情页为准。当前公开统计信息偏少，订阅前建议优先查看详情页说明。
 
-`/ipns/k51qzi5uqu5dglorzi2isb8lc7sk52kwuamv8p3lu4ilkfub0jzjcv2rpo8026`
+[都是自己平时从各种渠道收集到资源](https://go.otakuroom.net/source/view/k51qzi5uqu5dglorzi2isb8lc7sk52kwuamv8p3lu4ilkfub0jzjcv2rpo8026)
 
 ---
 
@@ -280,7 +280,7 @@
 
 该源以图片、摄影或真人视觉内容为主，浏览门槛较低。当前可见规模处于中等水平，浏览与管理成本相对可控。
 
-`/ipns/k51qzi5uqu5dh9gj54wy4ap8spvnpafc9ix6q0ztjt9pb5h8ct2vflwi1o25ot`
+[🔞COS涩涩大杂烩（随缘更新）](https://go.otakuroom.net/source/view/k51qzi5uqu5dh9gj54wy4ap8spvnpafc9ix6q0ztjt9pb5h8ct2vflwi1o25ot)
 
 ---
 
@@ -294,7 +294,7 @@
 
 该源面向公开分享场景整理，具体题材仍应以客户端详情页为准。当前可见规模处于中等水平，浏览与管理成本相对可控。
 
-`/ipns/k51qzi5uqu5di40dfmc43xlf53d9hnnieujdrpn943ui9beid9wjrmqznek6s6`
+[紧急企划](https://go.otakuroom.net/source/view/k51qzi5uqu5di40dfmc43xlf53d9hnnieujdrpn943ui9beid9wjrmqznek6s6)
 
 ---
 
@@ -308,7 +308,7 @@
 
 该源面向公开分享场景整理，具体题材仍应以客户端详情页为准。
 
-`/ipns/k51qzi5uqu5dkhla2nxiyov7qeygy95v7c8y2lf77lpf2izd5g9vapj0bymnwn`
+[个人收藏，喜欢拿走](https://go.otakuroom.net/source/view/k51qzi5uqu5dkhla2nxiyov7qeygy95v7c8y2lf77lpf2izd5g9vapj0bymnwn)
 
 ---
 
@@ -322,7 +322,7 @@
 
 该源以图片、摄影或真人视觉内容为主，浏览门槛较低。
 
-`/ipns/k51qzi5uqu5dg7c9bdpzh39yrz797r2pdzbq815r4afxbzj9p95szkp738kh8k`
+[美女图片和视频](https://go.otakuroom.net/source/view/k51qzi5uqu5dg7c9bdpzh39yrz797r2pdzbq815r4afxbzj9p95szkp738kh8k)
 
 ---
 
@@ -336,7 +336,7 @@
 
 该源面向公开分享场景整理，具体题材仍应以客户端详情页为准。
 
-`/ipns/k51qzi5uqu5dllm2zpjjlvfm5lvijxup1uttokg93j7b6l64nfevza42ehvelk`
+[幼幼杂](https://go.otakuroom.net/source/view/k51qzi5uqu5dllm2zpjjlvfm5lvijxup1uttokg93j7b6l64nfevza42ehvelk)
 
 ---
 
@@ -350,7 +350,7 @@
 
 该源以动画类内容为主，适合偏好连续观看或集中补档的用户。当前可见规模相对有限，更适合按需浏览。
 
-`/ipns/k51qzi5uqu5di3grv0hr53xnyi0ganir1dcud362a6mulwkuoyy6awi46myscr`
+[2D、3D HENTAI 动画资源 🔥](https://go.otakuroom.net/source/view/k51qzi5uqu5di3grv0hr53xnyi0ganir1dcud362a6mulwkuoyy6awi46myscr)
 
 ---
 
@@ -364,7 +364,7 @@
 
 该源以图片、摄影或真人视觉内容为主，浏览门槛较低。当前可见规模相对有限，更适合按需浏览。
 
-`/ipns/k51qzi5uqu5dgy59hpn5uj9rbbd3c7ag257zn2477a05hio4zdcdg79jz0xbun`
+[美女仓库](https://go.otakuroom.net/source/view/k51qzi5uqu5dgy59hpn5uj9rbbd3c7ag257zn2477a05hio4zdcdg79jz0xbun)
 
 ---
 
@@ -378,7 +378,7 @@
 
 该源以同人音声及相关资料为主，偏向目录化整理与检索。
 
-`/ipns/k51qzi5uqu5djasdpz01nv68y0g922o5gk5ymgi44jul8ovwfg4st98o0mqslu`
+[同人音聲CSV](https://go.otakuroom.net/source/view/k51qzi5uqu5djasdpz01nv68y0g922o5gk5ymgi44jul8ovwfg4st98o0mqslu)
 
 ---
 
@@ -392,7 +392,7 @@
 
 该源以图片、摄影或真人视觉内容为主，浏览门槛较低。当前可见规模相对有限，更适合按需浏览。
 
-`/ipns/k51qzi5uqu5diq17iw3n4y8zyirxbybjgf5ywvfsscmtc51om5eepnccjrqzbx`
+[人体艺术摄影](https://go.otakuroom.net/source/view/k51qzi5uqu5diq17iw3n4y8zyirxbybjgf5ywvfsscmtc51om5eepnccjrqzbx)
 
 ---
 
@@ -406,7 +406,7 @@
 
 该源以官方演示内容为主，适合作为功能体验与基础参考。当前可见规模相对有限，更适合按需浏览。
 
-`/ipns/k51qzi5uqu5dhcfivw8yfdw1dygs63fd2c21qjdxhucna902gu9esnqb41dku6`
+[OtakuRoom Official Source](https://go.otakuroom.net/source/view/k51qzi5uqu5dhcfivw8yfdw1dygs63fd2c21qjdxhucna902gu9esnqb41dku6)
 
 ---
 
@@ -420,6 +420,7 @@
 
 该源面向公开分享场景整理，具体题材仍应以客户端详情页为准。
 
-`/ipns/k51qzi5uqu5dkbsoirrn4e6d0xljj5bx6icucaixi4avm2n2zxi0yvqx74sil3`
+[步兵团](https://go.otakuroom.net/source/view/k51qzi5uqu5dkbsoirrn4e6d0xljj5bx6icucaixi4avm2n2zxi0yvqx74sil3)
 
 ---
+
